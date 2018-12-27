@@ -6,6 +6,9 @@ Key components:
 
  - Makefile to run development commands
  - [webpack 4](https://webpack.js.org/) used to build JavaScript and CSS
+ - Bootstrap4
+ - Docker
+ - Docker Compose
 
 ## Usage
 
